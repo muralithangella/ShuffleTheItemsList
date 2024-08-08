@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+}
+
+.Items_shuffle {
+  color: rgb(230, 230, 238);
+  background-color: red;
+  font-size: larger;
+  border-radius: 10%;
+}
